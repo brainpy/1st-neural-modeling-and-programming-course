@@ -1,4 +1,4 @@
-# First Training Course on Neural Modeling and Programming （第一届神经计算建模及编程培训班）
+# First Training Course on Neural Modeling and Programming (第一届神经计算建模及编程培训班)
 
 
 
@@ -45,6 +45,13 @@
 | 第七天  8月29日 | 10:00-12:00上午 | 循环神经网络训练及其实现       |
 |                 | 14:00-16:00下午 | 脉冲神经网络训练及其实现       |
 |                 | 18:00-20:00晚上 | 交流答疑                       |
+
+
+**授课时间**
+
+2023年8月23日 - 29日
+
+
 
 **授课单位**
 
