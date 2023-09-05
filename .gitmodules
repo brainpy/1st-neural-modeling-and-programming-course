@@ -1,0 +1,3 @@
+[submodule "BrainPy-course-notes"]
+	path = class notes/course notes from teaching assistant
+	url = https://github.com/Routhleck/BrainPy-course-notes

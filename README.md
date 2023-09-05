@@ -60,3 +60,5 @@
 微信链接：https://mp.weixin.qq.com/s/qxE6bUMo_hHDMw9Jv1FBPA
 
 报名链接：https://meeting.cns.org.cn/NCMP/
+
+助教在线笔记: https://routhleck.github.io/BrainPy-course-notes/2023/08/27/BrainPy-course-notes/
